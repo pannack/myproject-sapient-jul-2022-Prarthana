@@ -16,7 +16,7 @@ git add .
 ## Commiting changes
 git commit -m "info"
 
-## Get log
+## Checking commit history
 git log
 
 ## Downloads and references
